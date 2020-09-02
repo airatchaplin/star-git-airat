@@ -10,5 +10,6 @@ public class Main {
         System.out.println("So, let's continue");
         System.out.println("For revert");
         System.out.println("Making progress");
+        System.out.println("Continue...");
     }
 }
