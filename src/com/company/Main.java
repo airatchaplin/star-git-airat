@@ -7,5 +7,6 @@ public class Main {
         System.out.println("My name is Airat Salikhov");
         System.out.println("How are you with git?");
         System.out.println("This is good");
+        System.out.println("So, let's continue");
     }
 }
